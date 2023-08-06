@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <section>main</section>
+      <section>main text changed</section>
     </main>
   );
 }
